@@ -1,0 +1,11 @@
+# Ignore version control and unnecessary files from the build context
+.git
+.gitignore
+.github
+*.zip
+*.tar
+*.tar.gz
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
